@@ -1,0 +1,27 @@
+{
+  "name": "html5-audio",
+  "version": "0.0.1",
+  "description": "Convert audio files and create array of audio formats for use in an HTML5 audio element",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btrem/html5-audio.git"
+  },
+  "keywords": [
+    "html5",
+    "audio",
+    "ssg"
+  ],
+  "author": "Brian Tremblay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btrem/html5-audio/issues"
+  },
+  "homepage": "https://github.com/btrem/html5-audio"
+}

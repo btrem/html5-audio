@@ -1,0 +1,24 @@
+# dotenv environment variable files
+.env
+.env.*
+
+# npm cache directory
+.npm
+
+# dependency directories
+node_modules/*
+
+# binary audio files
+*.aif
+*.aiff
+*.flac
+*.iff
+*.m3u
+*.m4a
+*.mid
+*.mp3
+*.mpa
+*.ogg
+*.ra
+*.wav
+*.wma
