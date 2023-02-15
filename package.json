@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/btrem/html5-audio/issues"
   },
-  "homepage": "https://github.com/btrem/html5-audio"
+  "homepage": "https://github.com/btrem/html5-audio",
+  "dependencies": {
+    "cute-ffmpeg": "^1.0.4"
+  }
 }
